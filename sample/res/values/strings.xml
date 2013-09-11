@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DelayedJobSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome to this sample app! When you toggle the button below you will see a toast telling you the state of the button. This toast will appear after 2 seconds. If you spam the button the toast will first appear when you are finished spamming and only tell you the final state of the button</string>
+
+</resources>
