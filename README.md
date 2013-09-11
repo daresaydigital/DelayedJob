@@ -6,7 +6,7 @@ DelayedJobs are `Intent`s that are scheduled to be run in the future. This works
 
 Installation
 ------------
-Clone the library via `git clone github.com/screeninteraction/delayedjob`. After this is done you can choose to either build it and include the jar as a dependecy in your application or you can import it as a android library project and add it to your project that way.
+Clone the library via `git clone https://github.com/screeninteraction/DelayedJob.git`. After this is done you can choose to either build it and include the jar as a dependecy in your application or you can import it as a android library project and add it to your project that way.
 
 Usage
 -----
